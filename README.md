@@ -37,7 +37,7 @@ React
 Ruby on Rails
 
 # TimeFrame
--Backend - Day one(8 hours) 
--Frontend Applications - Day two(8 hours) 
--Frontend Applications - Day three(8 hours) 
--Styling - Day four (8 hours) 
+- Backend - Day one(8 hours) 
+- Frontend Applications - Day two(8 hours) 
+- Frontend Applications - Day three(8 hours) 
+- Styling - Day four (8 hours) 
